@@ -7,4 +7,8 @@ Application of basic SQL using Google Analytics data
 2. For finding average number of visits per user.
 ![Screenshot (100)](https://user-images.githubusercontent.com/100706881/156224063-cfb7311e-aaf9-4457-be6d-8a51c4f5e423.png)
 
+3. For finding top 6 countries in terms of transaction revenue earned in a year.
+![Screenshot (102)](https://user-images.githubusercontent.com/100706881/156225072-731ad50d-26b7-4d45-b2ba-9ec6eba97828.png)
+
+
 
