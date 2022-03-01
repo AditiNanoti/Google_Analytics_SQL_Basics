@@ -1,0 +1,12 @@
+with visits as (
+
+SELECT fullVisitorID
+, date
+,ROW_NUMBER() OVER (PARTITION BY fullvisitorID) as row_number
+FROM `bigquery-public-data.google_analytics_sample.ga_sessions_*`
+)
+
+select *
+,CASE WHEN row_number=1 THEN 'NEW_BUYER'
+ELSE 'REPEAT_BUYER' end as buyer_type
+from visits 
