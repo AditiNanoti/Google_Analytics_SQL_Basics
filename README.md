@@ -31,7 +31,7 @@ Application of basic SQL using Google Analytics data
 
 8. Number Of frequent customers region wise
 
-![Screenshot (114)](https://user-images.githubusercontent.com/100706881/156234572-7d10544f-0f44-4ee7-ba7f-065a35025cc1.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/100706881/156324365-e67c3f4b-b148-4559-a7f7-f5d09bea62b2.png)
 
 9. Frequently purchased products and their quantities city wise.
 
