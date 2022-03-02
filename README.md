@@ -27,7 +27,7 @@ Application of basic SQL using Google Analytics data
 
 7. Top products generating highest Revenue in a year.
 
-![Screenshot (113)](https://user-images.githubusercontent.com/100706881/156234338-8c85ca3a-5fc6-491f-9182-587887b08b52.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/100706881/156321956-717fd97a-c366-4b45-b1b2-04ea19c10ad9.png)
 
 8. Number Of frequent customers region wise
 
